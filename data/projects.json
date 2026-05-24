@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": "cmsc127",
+      "title": "CMSC 127 — Database Systems",
+      "description": "Projects focused on database design, CRUD systems, information management, and data-backed applications.",
+      "projects": [
+        {
+          "title": "Library Management System",
+          "type": "Web Application",
+          "description": "A database-backed web application for managing books, borrowers, inventory, and circulation transactions.",
+          "mediaType": "image",
+          "media": "assets/cmsc127/library-system.jpg",
+          "tags": ["Database", "CRUD", "PHP", "MySQL"],
+          "demo": "#",
+          "repository": "#"
+        },
+        {
+          "title": "Student Enrollment System",
+          "type": "Academic System",
+          "description": "A prototype enrollment platform for managing student records, course schedules, subject offerings, and enrollment transactions.",
+          "mediaType": "image",
+          "media": "assets/cmsc127/enrollment-system.jpg",
+          "tags": ["Database", "Records", "Full Stack"],
+          "demo": "#",
+          "repository": "#"
+        }
+      ]
+    },
+    {
+      "id": "cmsc141",
+      "title": "CMSC 141 — Automata and Language Theory",
+      "description": "Projects involving formal languages, automata simulations, parsers, and computational models.",
+      "projects": [
+        {
+          "title": "DFA Simulator",
+          "type": "Educational Tool",
+          "description": "An educational simulator for deterministic finite automata that allows users to create states, define transitions, and test input strings.",
+          "mediaType": "image",
+          "media": "assets/cmsc141/dfa-simulator.jpg",
+          "tags": ["Automata", "DFA", "JavaScript", "Simulation"],
+          "demo": "#",
+          "repository": "#"
+        }
+      ]
+    },
+    {
+      "id": "cmsc191",
+      "title": "CMSC 191 — Special Topics in Computer Science",
+      "description": "Projects involving machine learning, data science, artificial intelligence, natural language processing, and applied computing.",
+      "projects": [
+        {
+          "title": "Flood Prediction Prototype",
+          "type": "Machine Learning",
+          "description": "A machine learning prototype for predicting flood risk levels using environmental and historical weather datasets.",
+          "mediaType": "video",
+          "media": "assets/cmsc191/flood-demo.mp4",
+          "poster": "assets/cmsc191/flood-prediction.jpg",
+          "tags": ["Machine Learning", "Prediction", "Python", "Analytics"],
+          "demo": "#",
+          "repository": "#"
+        }
+      ]
+    },
+    {
+      "id": "capstone",
+      "title": "Capstone and Research Projects",
+      "description": "Larger student outputs involving software engineering, applied research, community-oriented systems, and Computer Science solutions.",
+      "projects": [
+        {
+          "title": "Smart Farming System",
+          "type": "IoT System",
+          "description": "An IoT-enabled agriculture monitoring system that tracks environmental conditions and assists in crop management.",
+          "mediaType": "video",
+          "media": "assets/capstone/smart-farming-demo.mp4",
+          "poster": "assets/capstone/smart-farming.jpg",
+          "tags": ["IoT", "Agriculture", "Embedded Systems", "Mobile App"],
+          "demo": "#",
+          "repository": "#"
+        }
+      ]
+    }
+  ]
+}
